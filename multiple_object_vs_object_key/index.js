@@ -1,5 +1,5 @@
 const u = require('../lib/util.js');
-const N_BIG = 5000;
+const N_BIG = 10000;
 const N_SMALL = 10;
 
 
